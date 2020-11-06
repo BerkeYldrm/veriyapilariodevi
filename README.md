@@ -35,7 +35,3 @@ n = int(input())
 
 print(fact(n))
 
-
-Hazırlayan(lar):
-
-Burak İbaoğlu - 365316
